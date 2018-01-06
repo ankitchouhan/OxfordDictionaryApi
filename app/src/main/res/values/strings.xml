@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OxfordTranslateApi</string>
+    <string name="search_word">Search word</string>
+    <string name="search">Search</string>
+    <string name="please_enter_some_text">Please enter some text</string>
+    <string name="definition">Definition:</string>
+    <string name="examples">Examples:</string>
+    <string name="phonetic">Phonetic Spelling:</string>
+</resources>
